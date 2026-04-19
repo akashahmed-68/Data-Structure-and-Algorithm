@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithm
-Array, sorting, linkedlist, stacks and queues, Binary search, linear search, search tree, 
+Big O Notation, Array, Sorting, Linkedlist, Stacks and Queues, Binary Search, Linear Search, Hashing and Hash Tables, Search Trees, Bellman-Ford Algorithm etc
